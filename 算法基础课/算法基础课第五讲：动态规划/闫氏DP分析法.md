@@ -208,7 +208,7 @@ public class Main {
 
 --------------------
 
-#### <a href="https://www.acwing.com/problem/content/3/)">完全背包问题</a>
+#### <a href="https://www.acwing.com/problem/content/3/">完全背包问题</a>
 
 - ##### 状态表示，化零为整
 
